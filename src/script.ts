@@ -1,4 +1,4 @@
 // Example: import from a valid relative path
-import { bootstrap } from "./modules/basic-types/type-symbol.js";
+import { bootstrap } from "./modules/basic-types/intersection-types.js";
 
 export { bootstrap };
